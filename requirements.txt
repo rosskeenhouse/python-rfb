@@ -1,0 +1,5 @@
+tox
+transitions
+numpy
+mock
+pytest
